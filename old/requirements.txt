@@ -2,5 +2,5 @@ numpy
 pandas
 sklearn
 keras==3.8.0
-tensorflow==2.11.1
+tensorflow==2.12.1
 git+https://www.github.com/keras-team/keras-contrib.git
